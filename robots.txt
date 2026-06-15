@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://estrategia-desarrollo-innovacion-ta.vercel.app/sitemap.xml
